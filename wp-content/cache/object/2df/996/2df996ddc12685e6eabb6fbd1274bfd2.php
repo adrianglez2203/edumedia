@@ -1,0 +1,1 @@
+ ¶òa<?php exit; ?>a:1:{s:7:"content";s:63:"cURL error 60: SSL certificate problem: self signed certificate";}

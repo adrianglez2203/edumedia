@@ -1,1 +1,1 @@
-©„òa<?php exit; ?>a:1:{s:7:"content";a:4:{s:10:"_edit_lock";a:1:{i:0;s:12:"1643220593:1";}s:19:"rank_math_seo_score";a:1:{i:0;s:1:"9";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:34:"rank_math_internal_links_processed";a:1:{i:0;s:1:"1";}}}
+÷´òa<?php exit; ?>a:1:{s:7:"content";a:4:{s:10:"_edit_lock";a:1:{i:0;s:12:"1643220593:1";}s:19:"rank_math_seo_score";a:1:{i:0;s:1:"9";}s:10:"_edit_last";a:1:{i:0;s:1:"1";}s:34:"rank_math_internal_links_processed";a:1:{i:0;s:1:"1";}}}

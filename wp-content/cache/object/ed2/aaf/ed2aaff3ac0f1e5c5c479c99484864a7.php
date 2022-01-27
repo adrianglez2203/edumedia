@@ -1,0 +1,1 @@
+ƒ¼òa<?php exit; ?>a:1:{s:7:"content";a:2:{s:7:"kadence";s:7:"/themes";s:15:"twentytwentytwo";s:7:"/themes";}}

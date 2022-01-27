@@ -10,3 +10,9 @@
 
 2022-01-27T07:55:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-includes\functions.php en la línea 6574
 
+2022-01-27T15:03:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-includes\functions.php en la línea 6570
+
+2022-01-27T15:03:24+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-includes\functions.php en la línea 6570
+
+2022-01-27T15:03:33+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-includes\wp-db.php en la línea 2162
+
