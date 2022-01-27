@@ -1,0 +1,135 @@
+.wp-block-gutenbee-food-menu {
+  width: 100%;
+}
+
+.wp-block-gutenbee-food-menu-item {
+  width: 100%;
+  margin: 0;
+}
+
+[data-type="gutenbee/food-menu"] {
+  [data-type="gutenbee/food-menu"] {
+    display: grid;
+    grid-gap: 30px;
+  }
+
+  > [data-type="gutenbee/food-menu-item"] {
+    margin: 0;
+  }
+}
+
+@for $i from 1 through 3 {
+  .gutenbee-food-menu-columns-desktop-#{$i} {
+    [data-type="gutenbee/food-menu"] {
+      grid-template-columns: repeat($i, 1fr);
+    }
+
+    .block-list-appender {
+      width: 100%;
+      grid-column: span $i;
+    }
+  }
+}
+
+[data-type="gutenbee/food-menu-item"] {
+  display: flex;
+  width: 100%;
+  margin: 0;
+  align-items: flex-start;
+  align-self: flex-start;
+
+  [data-type="gutenbee/food-menu-item"] {
+    margin-bottom: 0;
+  }
+
+  // Alignment
+
+  &[data-vertical-align="flex-start"] {
+    align-items: flex-start;
+  }
+
+  &[data-vertical-align="center"] {
+    align-items: center;
+  }
+
+  &[data-vertical-align="flex-end"] {
+    align-items: flex-end;
+  }
+
+  [role="textbox"] {
+    // Give a min-width to text boxes so that they
+    // don't disappear when focused.
+    min-width: 50px !important;
+  }
+
+  [data-type="gutenbee/image"] {
+    margin: 0 20px 0 0;
+    flex: none;
+
+    .wp-block-gutenbee-image {
+      > figcaption.rich-text {
+        display: none !important;
+      }
+    }
+
+    .components-placeholder.components-placeholder {
+      min-width: 160px;
+    }
+
+    // Improve the appearance of buttons
+    // and image placeholder label
+    .components-placeholder__label {
+      width: 100%;
+      justify-content: center;
+    }
+
+    .components-button {
+      width: 100%;
+      display: block;
+      text-align: center;
+    }
+  }
+
+  [data-type="gutenbee/food-menu-wrapper"] {
+    flex: auto;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr min-content;
+    align-items: flex-end;
+
+    [data-type="gutenbee/paragraph"] {
+      &:last-child {
+        margin-top: 15px;
+      }
+    }
+  }
+
+  [data-type="gutenbee/paragraph"] {
+    margin: 0;
+  }
+
+  [data-type="gutenbee/heading"] {
+    width: 100%;
+    display: flex;
+    margin: 0;
+
+    &::after {
+      content: "";
+      border-bottom: 2px dotted currentColor;
+      flex-grow: 1;
+      margin: 0 10px;
+      position: relative;
+      top: -6px;
+    }
+  }
+
+  .wp-block-gutenbee-heading {
+    margin-bottom: 0;
+  }
+}
+
+.wp-block-gutenbee-food-menu-item-wrapper {
+  .wp-block {
+    margin: 0;
+  }
+}

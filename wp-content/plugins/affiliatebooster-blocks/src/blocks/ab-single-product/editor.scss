@@ -1,0 +1,40 @@
+.affiliate-sp-wrapper{
+    .affiliate-sp-img-wrapper{
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+    }
+    .list-is-left li{
+        justify-content: flex-start;
+    }
+    .list-is-center li{
+        justify-content: center;
+    }
+    .list-is-right li{
+        justify-content: flex-end;
+    }
+    .affiliate-placeholder-image span{
+        padding-left: 10px;
+    }
+    .affiliate-placeholder-image svg{
+        vertical-align: text-top;
+    }
+    .affiliate-media-image-parent{
+        cursor: auto;
+    }
+    .affiliate-media-actions{
+        margin-top: 15px;
+        .affiliate-button{
+            background-color: #e6e6e6;
+            border: 1px solid #e6e6e6;
+        }
+        .affiliate-button:hover{
+            cursor: pointer;
+        }
+    }
+}
+
+.affiliate-iconlist-popwrapper{
+    width: 200px;
+}

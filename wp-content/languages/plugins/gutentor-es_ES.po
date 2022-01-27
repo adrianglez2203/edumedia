@@ -1,0 +1,881 @@
+# Translation of Plugins - Gutentor &#8211; Gutenberg Blocks &#8211; Page Builder for Gutenberg Editor - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Gutentor &#8211; Gutenberg Blocks &#8211; Page Builder for Gutenberg Editor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-12-07 12:20:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Gutentor &#8211; Gutenberg Blocks &#8211; Page Builder for Gutenberg Editor - Stable (latest release)\n"
+
+#: includes/admin/settings/class-admin-settings.php:292 dist/blocks.build.js:1
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: includes/admin/settings/class-admin-settings.php:343 dist/blocks.build.js:1
+msgid "Disable"
+msgstr "Desactivar"
+
+#: includes/admin/templates/settings.php:28 dist/blocks.build.js:1
+msgid "Optimization"
+msgstr "Optimización"
+
+#: includes/block-base/class-gutentor-block-base.php:2375
+#: dist/blocks.build.js:1
+msgid "Preview"
+msgstr "Vista previa"
+
+#: includes/block-base/class-gutentor-block-base.php:2498
+#: includes/block-base/class-gutentor-block-base.php:2524
+#: dist/blocks.build.js:1
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: includes/admin/class-gutentor-admin.php:748 dist/blocks.build.js:1
+msgid "Change Image"
+msgstr "Cambiar imagen"
+
+#: includes/admin/class-gutentor-admin.php:703
+#: includes/admin/class-gutentor-admin.php:718 dist/blocks.build.js:1
+msgid "Normal"
+msgstr "Normal"
+
+#: includes/admin/class-gutentor-admin.php:524
+msgid "Post Carousel"
+msgstr "Carrusel de entradas"
+
+#: includes/admin/class-gutentor-admin.php:494
+msgid "Tabs "
+msgstr "Pestañas"
+
+#: includes/admin/class-gutentor-admin.php:450
+msgid "Accordion "
+msgstr "Acordeón"
+
+#: includes/tools/class-gutentor-advanced-import.php:264 dist/blocks.build.js:1
+msgid "Untitled"
+msgstr "Sin título"
+
+#: includes/tools/class-gutentor-extend-api.php:80
+#: includes/tools/class-gutentor-extend-api.php:102
+#: includes/block-base/class-gutentor-query-elements.php:2277
+#: includes/block-base/class-gutentor-query-elements.php:2298
+#: includes/block-base/class-gutentor-query-elements.php:2319
+#: includes/block-base/class-gutentor-query-elements.php:2340
+msgid "New!"
+msgstr "¡Nuevo!"
+
+#: includes/tools/class-gutentor-extend-api.php:182
+#: includes/block-base/class-gutentor-query-elements.php:2162
+#: includes/block-base/class-gutentor-query-elements.php:2185
+msgid "Sale!"
+msgstr "¡Oferta!"
+
+#: includes/admin/class-gutentor-admin.php:711
+#: includes/admin/class-gutentor-admin.php:726 dist/blocks.build.js:1
+msgid "Hover"
+msgstr "Al pasar el cursor"
+
+#. Plugin Name of the plugin
+msgid "Gutentor - Gutenberg Blocks - Page Builder for Gutenberg Editor"
+msgstr "Gutentor - Gutenberg Blocks - Page Builder for Gutenberg Editor"
+
+#: includes/admin/templates/admin-page.php:19 dist/blocks.build.js:1
+msgid "Terms"
+msgstr "Términos"
+
+#: includes/blocks/modules/class-gutentor-p5.php:158 dist/blocks.build.js:1
+msgid "News"
+msgstr "Noticias"
+
+#: includes/tools/class-gutentor-self-api-handler.php:508
+msgid "Sorry, you are not allowed to edit posts in this post type."
+msgstr "Lo siento, no tienes permisos para editar publicaciones en este tipo de contenido."
+
+#: includes/tools/class-gutentor-self-api-handler.php:143
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: includes/tools/class-gutentor-self-api-handler.php:66
+msgid "Page Number (Paged) "
+msgstr "Número de página (paginado)"
+
+#: includes/functions/functions.php:1335 dist/blocks.build.js:1
+msgid "1"
+msgstr "1"
+
+#: includes/tools/class-gutentor-self-api-handler.php:72
+#: includes/tools/class-gutentor-self-api-handler.php:78 dist/blocks.build.js:1
+msgid "Block ID"
+msgstr "ID del bloque"
+
+#: includes/tools/class-gutentor-self-api-handler.php:1062
+msgid "The page number requested is larger than the number of pages available."
+msgstr "El número de página solicitada es mayor que el número de páginas disponibles."
+
+#: includes/admin/templates/admin-page.php:20
+msgid "Widgets"
+msgstr "Widgets"
+
+#: includes/admin/templates/admin-page.php:18
+msgid "Posts"
+msgstr "Entradas"
+
+#: includes/admin/templates/admin-page.php:17
+msgid "Modules"
+msgstr "Módulos"
+
+#: includes/admin/templates/admin-page.php:16
+msgid "Elements"
+msgstr "Elementos"
+
+#: includes/admin/class-gutentor-admin.php:532 dist/blocks.build.js:1
+msgid "Post Module"
+msgstr "Módulo de entrada"
+
+#: includes/admin/class-gutentor-admin.php:400
+msgid "Divider differentiate sections and elements with shape."
+msgstr "El divisor diferencia secciones y elementos con una forma."
+
+#: includes/admin/class-gutentor-admin.php:529
+msgid "Display post with news and magazine style."
+msgstr "Muestra la entrada con estilo de noticias y revista."
+
+#: includes/admin/class-gutentor-admin.php:528
+msgid "Post Feature Module"
+msgstr "Módulo entrada destacada"
+
+#: includes/admin/class-gutentor-admin.php:533
+msgid "Display Blog post with list and grid view from post module."
+msgstr "Mostrar las entradas del blog con vista de lista y cuadrícula desde el módulo de entradas."
+
+#: includes/tools/class-gutentor-templateberg.php:55
+#: includes/tools/class-gutentor-advanced-import.php:56
+msgid "Reset True or False"
+msgstr "Restablecer verdadero o falso"
+
+#. Description of the plugin
+msgid "Advanced yet easy, Gutenberg editor page builder blocks. Create a masterpiece, pixel perfect websites using modern WordPress Gutenberg blocks."
+msgstr "Avanzado pero fácil, constructor de páginas con el editor de bloques Gutenberg. Crea una obra maestra, sitios web con pixel perfectos usando bloques modernos de WordPress Gutenberg."
+
+#: includes/block-base/class-gutentor-block-base.php:2159
+#: includes/block-base/class-gutentor-block-base.php:2181
+#: includes/block-base/class-gutentor-block-base.php:2494
+#: includes/block-base/class-gutentor-block-base.php:2520
+msgid "Comments"
+msgstr "Comentarios"
+
+#: includes/block-base/class-gutentor-block-base.php:2155
+#: includes/block-base/class-gutentor-block-base.php:2177
+#: includes/block-base/class-gutentor-block-base.php:2490
+#: includes/block-base/class-gutentor-block-base.php:2516
+#: dist/blocks.build.js:1
+msgid "Category"
+msgstr "Categoría"
+
+#: includes/block-base/class-gutentor-block-base.php:2151
+#: includes/block-base/class-gutentor-block-base.php:2173
+#: includes/block-base/class-gutentor-block-base.php:2486
+#: includes/block-base/class-gutentor-block-base.php:2512
+#: dist/blocks.build.js:1
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/block-base/class-gutentor-block-base.php:2147
+#: includes/block-base/class-gutentor-block-base.php:2169
+#: includes/block-base/class-gutentor-block-base.php:2482
+#: includes/block-base/class-gutentor-block-base.php:2508
+#: dist/blocks.build.js:1
+msgid "Author"
+msgstr "Autor"
+
+#: includes/admin/class-gutentor-admin.php:742
+msgid "Select Image"
+msgstr "Seleccionar imagen"
+
+#: includes/hooks.php:135 includes/hooks.php:161 dist/blocks.build.js:1
+msgid "Full"
+msgstr "Completo"
+
+#: includes/admin/class-gutentor-admin.php:737
+#: includes/blocks/modules/class-gutentor-t1.php:152
+#: includes/block-base/class-gutentor-block-base.php:2117
+#: dist/blocks.build.js:1
+msgid "Featured Image"
+msgstr "Imagen destacada"
+
+#: includes/hooks.php:197
+msgid "Gutentor Posts"
+msgstr "Entradas Gutentor"
+
+#: includes/admin/class-gutentor-admin.php:716 dist/blocks.build.js:1
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: includes/admin/class-gutentor-admin.php:701 dist/blocks.build.js:1
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: includes/block-base/class-gutentor-block-base.php:2137
+#: includes/block-base/class-gutentor-block-base.php:2472
+#: dist/blocks.build.js:1
+msgid "Secondary Entry Meta"
+msgstr "Meta de entrada secundario"
+
+#: includes/blocks/modules/class-gutentor-t1.php:164
+#: includes/block-base/class-gutentor-block-base.php:2129
+#: includes/block-base/class-gutentor-block-base.php:2464
+#: dist/blocks.build.js:1
+msgid "Description/Excerpt"
+msgstr "Descripción / Extracto"
+
+#: includes/block-base/class-gutentor-block-base.php:2125
+#: includes/block-base/class-gutentor-block-base.php:2460
+#: dist/blocks.build.js:1
+msgid "Primary Entry Meta"
+msgstr "Meta de entrada principal"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:60
+msgid "Title (Optional)"
+msgstr "Título (opcional)"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:82
+msgid "Select Block"
+msgstr "Seleccionar bloque"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:74
+msgid "Select Block:"
+msgstr "Seleccionar bloque:"
+
+#: includes/blocks/modules/class-gutentor-t1.php:156
+#: includes/block-base/class-gutentor-block-base.php:2121
+#: includes/block-base/class-gutentor-block-base.php:2456
+#: dist/blocks.build.js:1
+msgid "Title"
+msgstr "Título"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:56
+msgid "Go to here to add Block"
+msgstr "Ir aquí para añadir bloque"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:35
+msgid "Addons Gutentor Block"
+msgstr "Bloque de extensiones Gutentor"
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:76
+msgid "Select block and its content will display in the frontend."
+msgstr "Selecciona el bloque y su contenido se mostrará en la parte pública."
+
+#: includes/sidebar-widget/class-gutentor-wp-block-widget.php:38
+msgid "Feel free to add Gutenberg Block on the Widgets"
+msgstr "No dudes en añadir bloques de Gutenberg en los widgets"
+
+#: includes/dynamic-css.php:531
+msgid " exists"
+msgstr "existe"
+
+#: includes/dynamic-css.php:526
+msgid " created"
+msgstr "creado"
+
+#: includes/admin/class-gutentor-admin.php:490
+msgid "Slider "
+msgstr "Carrusel"
+
+#: includes/admin/class-gutentor-admin.php:470 dist/blocks.build.js:1
+msgid "Dynamic Columns"
+msgstr "Columnas dinámicas"
+
+#: includes/admin/class-gutentor-admin.php:462 dist/blocks.build.js:1
+msgid "Carousel"
+msgstr "Carrusel"
+
+#: includes/admin/class-gutentor-admin.php:415 dist/blocks.build.js:1
+msgid "List"
+msgstr "Lista"
+
+#: includes/admin/class-gutentor-admin.php:411 dist/blocks.build.js:1
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/admin/class-gutentor-admin.php:407 dist/blocks.build.js:1
+msgid "Icon"
+msgstr "Icono"
+
+#: includes/admin/class-gutentor-admin.php:391
+#: includes/blocks/modules/class-gutentor-t1.php:168
+#: includes/block-base/class-gutentor-block-base.php:2133
+#: includes/block-base/class-gutentor-block-base.php:2468
+#: dist/blocks.build.js:1
+msgid "Button"
+msgstr "Botón"
+
+#: includes/admin/class-gutentor-admin.php:427 dist/blocks.build.js:1
+msgid "Rating"
+msgstr "Valoración"
+
+#: includes/dynamic-css.php:524
+msgid " not exists"
+msgstr " no existe"
+
+#: includes/admin/class-gutentor-admin.php:458 dist/blocks.build.js:1
+msgid "Button Group"
+msgstr "Grupo de botones"
+
+#: includes/admin/class-gutentor-admin.php:387 dist/blocks.build.js:1
+msgid "Advanced Text"
+msgstr "Texto avanzado"
+
+#: includes/hooks.php:189
+msgid "Gutentor Elements"
+msgstr "Elementos Gutentor"
+
+#: includes/dynamic-css.php:495
+msgid "CSS is not empty"
+msgstr "CSS no está vacío"
+
+#: includes/admin/class-gutentor-admin.php:431 dist/blocks.build.js:1
+msgid "Simple Text"
+msgstr "Texto sencillo"
+
+#: includes/dynamic-css.php:528
+msgid " create permission issue"
+msgstr "crear conflicto de permisos"
+
+#: includes/admin/class-gutentor-admin.php:388
+msgid "Insert text with advanced options "
+msgstr "Insertar texto con opciones avanzadas"
+
+#: includes/dynamic-css.php:470
+msgid "Have Post ID "
+msgstr "Tiene ID de entrada"
+
+#: includes/dynamic-css.php:535
+msgid "Successfully created css file "
+msgstr "Archivo css creado correctamente "
+
+#: includes/dynamic-css.php:475
+msgid "Google fonts is not empty"
+msgstr "Las fuentes de Google no están vacías"
+
+#: includes/admin/class-gutentor-admin.php:432
+msgid "Insert text with minimal options "
+msgstr "Insertar texto con opciones mínimas"
+
+#: includes/admin/class-gutentor-admin.php:466
+msgid "Container/Cover Block"
+msgstr "Bloque de contenedor/fondo"
+
+#: includes/admin/class-gutentor-admin.php:436
+msgid "Insert video in your website."
+msgstr "Inserta vídeo en tu web."
+
+#: includes/dynamic-css.php:541
+msgid "No Post ID "
+msgstr "No hay ID de la entrada"
+
+#: includes/hooks.php:193
+msgid "Gutentor Modules"
+msgstr "Módulos Gutentor"
+
+#: includes/hooks.php:205
+msgid "Gutentor Widgets"
+msgstr "Widgets Gutentor"
+
+#: includes/dynamic-css.php:513
+msgid "Successfully saved gutentor dynamic css"
+msgstr "Guardado correctamente el CSS dinámico de gutentor"
+
+#: includes/admin/class-gutentor-admin.php:455
+msgid "Insert advanced columns to create customizable columns within the page. "
+msgstr "Inserta columnas avanzadas para crear columnas personalizables dentro de la página. "
+
+#: includes/admin/class-gutentor-admin.php:420
+msgid "Insert the pricing to showcase the price of the product."
+msgstr "Inserta los precios para mostrar el precio del producto."
+
+#: includes/admin/class-gutentor-admin.php:416
+msgid "Represent the paragraphs in tabbed styles"
+msgstr "Representar los párrafos en estilos con pestañas"
+
+#: includes/admin/class-gutentor-admin.php:408
+msgid "Insert an icon to symbolize the text"
+msgstr "Insertar un icono para simbolizar el texto"
+
+#: includes/admin/class-gutentor-admin.php:392 dist/blocks.build.js:1
+msgid "Prompt visitors to take action with attractive buttons."
+msgstr "Pide a los usuarios que realicen acciones con botones atractivos."
+
+#: includes/dynamic-css.php:486
+msgid "Fail to get google fonts url"
+msgstr "Fallo al obtener la URL de Google Fonts"
+
+#: includes/dynamic-css.php:481
+msgid "Successfully saved google fonts url"
+msgstr "URL de Google Fonts guardada correctamente"
+
+#: includes/dynamic-css.php:478
+msgid "Successfully get google fonts url"
+msgstr "URL de Google Fonts obtenida correctamente"
+
+#: includes/admin/class-gutentor-admin.php:491
+msgid "Insert slider container and add elements within the container."
+msgstr "Inserta el contenedor del carrusel y añade elementos dentro del contenedor."
+
+#: includes/admin/class-gutentor-admin.php:471
+msgid "Insert dynamic columns to insert unlimited predefined columns "
+msgstr "Inserta columnas dinámicas para insertar columnas predefinidas ilimitadas "
+
+#: includes/admin/class-gutentor-admin.php:463
+msgid "Insert carousel column and add element inside the columns. "
+msgstr "Inserta la columna de carrusel y añade un elemento dentro de las columnas. "
+
+#: includes/admin/class-gutentor-admin.php:428
+msgid "Insert the rating element to represent the rating from 1-5 star."
+msgstr "Inserta el elemento de valoración para representar la valoración de 1 a 5 estrellas."
+
+#: includes/admin/class-gutentor-admin.php:412 dist/blocks.build.js:1
+msgid "Insert an image to create extra value on the content."
+msgstr "Inserta una imagen para crear un valor adicional en el contenido."
+
+#: includes/admin/class-gutentor-admin.php:404 dist/blocks.build.js:1
+msgid "Display a Google Map on your website with Google Map API."
+msgstr "Muestra un mapa de Google en tu web con la API de Google Map."
+
+#: includes/admin/class-gutentor-admin.php:396
+msgid " Insert an animated number to display the counter number."
+msgstr " Inserta un número animado para mostrar el número del contador."
+
+#: includes/admin/class-gutentor-admin.php:424
+msgid "Showcase the progress of the work in an animated form."
+msgstr "Mostrar el progreso del trabajo de forma animada."
+
+#: includes/dynamic-css.php:537
+msgid "Permission denied to create css file "
+msgstr "Permiso denegado para crear el archivo CSS"
+
+#: includes/admin/templates/getting-started-page.php:16
+msgid "Video Tutorials"
+msgstr "Vídeo tutoriales"
+
+#: includes/admin/templates/getting-started-page.php:12
+msgid "Intro Video"
+msgstr "Vídeo de introducción"
+
+#: includes/admin/templates/getting-started-page.php:116
+msgid "Style: "
+msgstr "Estilo:"
+
+#: includes/admin/templates/getting-started-page.php:90
+#: includes/admin/templates/getting-started-page.php:115
+msgid "General: "
+msgstr "General:"
+
+#: includes/admin/templates/settings.php:25
+#: includes/admin/templates/getting-started-page.php:110 dist/blocks.build.js:1
+msgid "General"
+msgstr "General"
+
+#: includes/admin/templates/getting-started-page.php:64
+msgid "File: "
+msgstr "Archivo:"
+
+#: includes/admin/templates/getting-started-page.php:63
+msgid "Templates: "
+msgstr "Plantillas:"
+
+#: includes/admin/templates/getting-started-page.php:62
+msgid "Blocks: "
+msgstr "Bloques:"
+
+#: includes/admin/templates/getting-started-page.php:35
+#: includes/admin/templates/getting-started-page.php:40
+msgid "Click here"
+msgstr "Haz clic aquí"
+
+#: includes/admin/templates/getting-started-page.php:35
+#: includes/admin/templates/getting-started-page.php:40
+msgid "OR"
+msgstr "O"
+
+#: includes/admin/class-gutentor-admin.php:117
+#: includes/admin/class-gutentor-admin.php:118 dist/blocks.build.js:1
+msgid "Blocks"
+msgstr "Bloques"
+
+#: includes/admin/class-gutentor-admin.php:109
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: includes/admin/class-gutentor-admin.php:108
+msgid "Getting Started Page"
+msgstr "Página de los primeros pasos"
+
+#: includes/admin/templates/getting-started-page.php:37
+msgid "Adding Post"
+msgstr "Añadiendo entrada"
+
+#: includes/admin/templates/getting-started-page.php:32
+msgid "Adding Page"
+msgstr "Añadiendo página"
+
+#: includes/admin/templates/getting-started-page.php:91
+#: includes/admin/templates/getting-started-page.php:117
+#: includes/admin/templates/getting-started-page.php:122
+msgid "Advanced: "
+msgstr "Avanzado: "
+
+#: includes/admin/templates/getting-started-page.php:113
+msgid "Block Items: "
+msgstr "Elementos de bloque:"
+
+#: includes/admin/templates/getting-started-page.php:112
+msgid "Block Title: "
+msgstr "Título del bloque:"
+
+#: includes/admin/templates/getting-started-page.php:86
+msgid "3. Start Designing"
+msgstr "3. Comienza a diseñar"
+
+#: includes/admin/templates/getting-started-page.php:68
+msgid "To add fresh block follow below steps"
+msgstr "Para añadir bloques nuevos, sigue los pasos que se indican a continuación"
+
+#: includes/admin/templates/getting-started-page.php:31
+msgid "Here is the steps to add page/post in WordPress"
+msgstr "Aquí están los pasos para añadir página / entrada en WordPress"
+
+#: includes/admin/templates/getting-started-page.php:30
+msgid "1. Add New Page/Post"
+msgstr "1. Añadir nueva página / entrada"
+
+#: includes/admin/templates/getting-started-page.php:6
+msgid "Getting Started To Gutentor"
+msgstr "Guía de cómo empezar con Gutentor"
+
+#: includes/admin/templates/getting-started-page.php:62
+msgid "Search and Import Elegant Blocks"
+msgstr "Buscar e importar bloques Elegant"
+
+#: includes/admin/templates/getting-started-page.php:57
+msgid "Import template library"
+msgstr "Importar biblioteca de plantillas"
+
+#: includes/admin/templates/getting-started-page.php:9
+msgid "WordPress Page Building Blocks"
+msgstr "Bloques de construcción de páginas de WordPress"
+
+#: includes/admin/templates/getting-started-page.php:39
+msgid "Go to Posts => Add New"
+msgstr "Ir a Entradas => Añadir nueva"
+
+#: includes/admin/templates/getting-started-page.php:34
+msgid "Go to Pages => Add New"
+msgstr "Ir a Páginas => Añadir nueva"
+
+#: includes/admin/templates/getting-started-page.php:64
+msgid "Import Demo Data from JSON file"
+msgstr "Importar datos demo de un archivo JSON"
+
+#: includes/admin/templates/getting-started-page.php:55
+msgid "2. Import Template Library or Add New Blocks"
+msgstr "2. Importa de la biblioteca de plantillas o añade nuevos bloques"
+
+#: includes/admin/templates/getting-started-page.php:112
+msgid "Setting related to block title."
+msgstr "Ajuste relacionado con el título del bloque."
+
+#: includes/admin/templates/getting-started-page.php:115
+msgid "It consists functional setting like select, enable and disable the features of the block. "
+msgstr "Consiste en una ajuste funcional como seleccionar, activar y desactivar las características del bloque. "
+
+#: includes/admin/templates/getting-started-page.php:71
+msgid "Type Block name in search bar, if you already know the block name."
+msgstr "Escribe el nombre del bloque en la barra de búsqueda, si ya lo conoces."
+
+#: includes/admin/templates/getting-started-page.php:91
+#: includes/admin/templates/getting-started-page.php:122
+msgid "It consists of set of Advanced Setting which effect whole Block Section."
+msgstr "Consiste en un conjunto de ajustes avanzados que afecta a toda la sección del bloque."
+
+#: includes/admin/templates/getting-started-page.php:113
+msgid "It is Main part of block setting which consist of 3 tabs like general, style and advanced."
+msgstr "Es la parte principal de los ajustes del bloque que consisten en 3 pestañas como general, estilo y avanzado."
+
+#: includes/admin/templates/getting-started-page.php:106
+msgid "After Adding a Block in the editor, It is ready to Design"
+msgstr "Después de añadir un bloque en el editor, está listo para diseñar"
+
+#: includes/admin/templates/getting-started-page.php:72
+msgid "OR Scroll down and navigate to Gutentor section and Add New Block."
+msgstr "O desplázate hacia abajo y navega a la sección Gutentor y añade un nuevo bloque."
+
+#: includes/admin/templates/getting-started-page.php:116
+msgid "Style tabs consists of different styling setting of the block item."
+msgstr "Las pestañas de estilo consisten en diferentes ajustes de estilo del elemento del bloque."
+
+#: includes/admin/templates/getting-started-page.php:117
+msgid "It consists of margin/padding and animation setting of block items."
+msgstr "Consiste en el ajuste del margen/relleno y la animación de los elementos del bloque."
+
+#: includes/admin/templates/getting-started-page.php:63
+msgid "Import Beautiful Stunning Templates"
+msgstr "Importa bonitas plantillas impresionantes"
+
+#: includes/admin/templates/getting-started-page.php:70
+msgid "At the top left corner of the page/post edit Screen, click on Sign"
+msgstr "En la esquina superior izquierda de la pantalla de edición de la página/entrada, haz clic en el signo"
+
+#: includes/admin/templates/getting-started-page.php:60
+msgid "At the top of page/post edit Screen, click on “Template Library”"
+msgstr "En la parte superior de la pantalla de edición de páginas/entradas, haz clic en «Biblioteca de plantillas»"
+
+#: includes/admin/templates/getting-started-page.php:56
+msgid "From Edit screen of page/post, you can easily import Beautiful Templates"
+msgstr "Desde la pantalla de edición de páginas/entradas, puedes importar bonitas plantillas fácilmente"
+
+#: includes/admin/templates/getting-started-page.php:107
+msgid "At right sidebar of Edit screen, there are Document and Block Tabs, under %1$s Block Tab %2$s, you will find setting to respective block."
+msgstr "En la barra lateral derecha de la pantalla de edición, hay pestañas de documentos y de bloques, en la %1$s pestaña de bloques %2$s, encontrarás los ajustes de los respectivos bloques."
+
+#: includes/block-templates/widgets/class-widget-blog-post-templates.php:109
+#: includes/block-base/class-gutentor-query-elements.php:375
+#: includes/block-base/class-gutentor-query-elements.php:444
+#: includes/block-base/class-gutentor-query-elements.php:1248
+#: includes/block-base/class-gutentor-query-elements.php:1271
+msgid ", "
+msgstr ", "
+
+#: includes/blocks/widgets/class-gutentor-blog-post.php:163
+#: includes/blocks/widgets/class-gutentor-blog-post.php:335
+#: includes/block-base/class-gutentor-block-base.php:2289
+#: includes/block-base/class-gutentor-block-base.php:2624
+#: includes/block-base/class-gutentor-block-base.php:2867
+#: dist/blocks.build.js:1
+msgid "Read More"
+msgstr "Leer más"
+
+#: includes/admin/class-gutentor-admin.php:419 dist/blocks.build.js:1
+msgid "Pricing"
+msgstr "Precio"
+
+#: includes/block-base/class-gutentor-block-base.php:460
+#: includes/block-base/class-gutentor-block-base.php:573
+#: includes/block-base/class-gutentor-block-base.php:3192
+#: dist/blocks.build.js:1
+msgid "Block Title"
+msgstr "Título del bloque"
+
+#: includes/admin/templates/admin-page.php:7
+#: includes/admin/templates/getting-started-page.php:134
+msgid "Gutentor Demo"
+msgstr "Demostración de Gutentor"
+
+#: includes/admin/templates/admin-page.php:6
+#: includes/admin/templates/getting-started-page.php:131
+msgid "Documentation"
+msgstr "Documentación"
+
+#: includes/admin/class-gutentor-admin.php:651
+msgid "Testimonial"
+msgstr "Testimonio"
+
+#: includes/admin/class-gutentor-admin.php:403 dist/blocks.build.js:1
+msgid "Google Map"
+msgstr "Google Map"
+
+#: includes/admin/class-gutentor-admin.php:482 dist/blocks.build.js:1
+msgid "Gallery"
+msgstr "Galería"
+
+#: includes/admin/class-gutentor-admin.php:399 dist/blocks.build.js:1
+msgid "Divider"
+msgstr "Separador"
+
+#: includes/admin/class-gutentor-admin.php:395 dist/blocks.build.js:1
+msgid "Counter"
+msgstr "Contador"
+
+#: includes/hooks.php:1034
+msgid "Gutentor Canvas"
+msgstr "Lienzo Gutentor"
+
+#: includes/hooks.php:1033
+msgid "Gutentor Full Width"
+msgstr "Gutentor Ancho Completo"
+
+#: includes/admin/settings/class-admin-settings.php:342 dist/blocks.build.js:1
+msgid "Default"
+msgstr "Por defecto"
+
+#: includes/hooks.php:98
+msgid "Gutentor Options"
+msgstr "Opciones de Gutentor"
+
+#. Author URI of the plugin
+msgid "https://www.gutentor.com/"
+msgstr "https://www.gutentor.com/"
+
+#. Author of the plugin
+#: includes/admin/class-gutentor-admin.php:73 includes/metabox/meta-box.php:92
+#: includes/init.php:110 dist/blocks.build.js:1
+msgid "Gutentor"
+msgstr "Gutentor"
+
+#: includes/admin/class-gutentor-admin.php:423 dist/blocks.build.js:1
+msgid "Progress Bar"
+msgstr "Barra de progreso"
+
+#: includes/block-base/class-gutentor-block-base.php:874
+#: includes/block-base/class-gutentor-block-base.php:1067
+#: includes/block-base/class-gutentor-block-base.php:3504
+#: includes/block-base/class-gutentor-block-base.php:3655
+#: dist/blocks.build.js:1
+msgid "#"
+msgstr "#"
+
+#: includes/block-base/class-gutentor-block-base.php:870
+#: includes/block-base/class-gutentor-block-base.php:1063
+#: includes/block-base/class-gutentor-block-base.php:3503
+#: includes/block-base/class-gutentor-block-base.php:3654
+#: dist/blocks.build.js:1
+msgid "View More"
+msgstr "Ver más"
+
+#: includes/admin/class-gutentor-admin.php:454
+#: includes/admin/class-gutentor-admin.php:571 dist/blocks.build.js:1
+msgid "Advanced Columns"
+msgstr "Columnas avanzadas"
+
+#: includes/tools/class-gutentor-advanced-import.php:78
+msgid "URL of the JSON file."
+msgstr "URL del fichero JSON."
+
+#: includes/admin/class-gutentor-admin.php:435 dist/blocks.build.js:1
+msgid "Video Popup"
+msgstr "Video emergente"
+
+#: includes/admin/templates/admin-page.php:4
+msgid "Gutentor - WordPress Page Building Blocks"
+msgstr "Gutentor - Constructor de bloques de página WordPress"
+
+#: includes/tools/class-gutentor-self-api-handler.php:1195
+#: includes/tools/class-gutentor-self-api-handler.php:1207
+#: includes/tools/class-gutentor-templateberg.php:288
+#: includes/tools/class-gutentor-templateberg.php:300
+#: includes/tools/class-gutentor-advanced-import.php:316
+#: includes/tools/class-gutentor-advanced-import.php:328
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas, ¿eh?"
+
+#: includes/admin/class-gutentor-admin.php:572
+msgid "The Advanced block has a number of advanced features of a column where it facilitates user to choose layout of row in term of column.e.g 1 column, 2 column layout and many more."
+msgstr "El bloque avanzado tiene una serie de características avanzadas de una columna donde facilita al usuario elegir el diseño de la fila en términos de columna, por ejemplo, diseño de 1 columna, 2 columnas y mucho más."
+
+#: includes/block-base/class-gutentor-block-base.php:3272
+#: dist/blocks.build.js:1
+msgid "Block Sub Title"
+msgstr "Subtítulo del bloque"
+
+#: includes/admin/templates/admin-page.php:5
+msgid "Advanced yet easy drag & drop WordPress block page builder. Create masterpiece, pixel perfect websites using modern WordPress way. Work with any theme, create any design."
+msgstr "Constructor de páginas de tipo arrastrar y soltar con bloques de WordPress, avanzado pero fácil de usar. Crea obras maestras, webs perfectas «píxel perfecto» usando los métodos actuales de WordPress. Trabaja con cualquier tema, crea cualquier diseño."
+
+#: includes/admin/class-gutentor-admin.php:588
+msgid "Content Widget block is useful to preset plain title, content and button without image and icon."
+msgstr "El bloque del widget de contenido es útil para preestablecer un título sin formato, el contenido y un botón sin imagen e icono."
+
+#: includes/admin/class-gutentor-admin.php:604
+msgid "The Gallery Widget allows user to create mesmerizing gallery of image with caption which is perfect showcase of image of portfolio, services or product."
+msgstr "El widget de galería permite al usuario crear una fascinante galería de imágenes con leyenda que es un escaparate de imágenes perfecto para porfolio, servicios o productos."
+
+#: includes/admin/class-gutentor-admin.php:592
+msgid "This Widget is useful for setting a countdown feature on your website. It is extremely helpful for any event show related website."
+msgstr "Este widget es útil para establecer una función de cuenta atrás en tu web. Es extremadamente útil para cualquier web relacionada con el espectáculo de eventos."
+
+#: includes/admin/class-gutentor-admin.php:584
+msgid "The Call to Action Widget helps user to trigger certain action with collection of button.It is usable to link learn more, download, buy etc."
+msgstr "El widget de llamada a la acción ayuda al usuario a activar cierta acción con una colección de botones. Se puede usar para enlaces como «aprender más», «descargar», «comprar», etc."
+
+#: includes/admin/class-gutentor-admin.php:576
+msgid "The Author Widget allows user to display information related to author with title, description and button"
+msgstr "El widget del autor permite al usuario mostrar información relacionada con el autor con título, descripción y botón"
+
+#: includes/admin/class-gutentor-admin.php:568
+msgid "The Accordion Widget helps you to display information in collapsible rows with title ,description and button. Generally this block can be helpful for display FAQ and other informative message. "
+msgstr "El widget de acordeón te ayuda a mostrar información en filas contraíbles con título, descripción y botón. Por lo general, este bloque puede ser útil para mostrar FAQ y otros mensajes informativos."
+
+#: includes/admin/class-gutentor-admin.php:564
+msgid "The About Widget gives short description related to product, person or any items with a large section of a photo, title, description, and button with customise setting and different templates."
+msgstr "El widget «Acerca de» proporciona una breve descripción relacionada con el producto, la persona o cualquier elemento con una gran sección con una foto, título, descripción y un botón con ajustes de personalización y diferentes plantillas."
+
+#: includes/admin/class-gutentor-admin.php:648
+msgid "With the team Widget users can create an attractive and sophisticated team section where they can represent the team members of their company in a professional way."
+msgstr "Con el widget de equipo los usuarios pueden crear una sección de equipo atractiva y sofisticada donde pueden presentar a los miembros del equipo de su empresa de una forma profesional."
+
+#: includes/admin/class-gutentor-admin.php:632
+msgid "The progress bar Widget facilitates user create a customizable bar and/or circle progress counter to represent percentage values."
+msgstr "El widget de barra de progreso facilita al usuario crear una barra y/o un círculo contador de progreso personalizables para representar valores de porcentaje."
+
+#: includes/admin/class-gutentor-admin.php:656
+msgid "The Timeline Widget has ability to represents the user information or events in chronological order with different styles.  "
+msgstr "El widget de cronología tiene la capacidad de presentar la información del usuario o de eventos en orden cronológico con diferentes estilos."
+
+#: includes/admin/class-gutentor-admin.php:652
+msgid "The Testimonial Widget display the feedback or quotation given by your user which helps site visitor to trust on your product, services."
+msgstr "El widget de recomendación muestra las opiniones o citas proporcionada por tus usuarios, lo que ayuda al visitante del sitio a confiar en tu producto o servicios."
+
+#: includes/admin/class-gutentor-admin.php:644
+msgid "The Tab Widget facilitates user to display content in a fully tabbed UX which contains title, description and buttons with number of templates."
+msgstr "El widget de pestañas facilita al usuario mostrar contenido mediante de una experiencia de usuario con pestañas que contienen título, descripción y botones con una serie de plantillas."
+
+#: includes/admin/class-gutentor-admin.php:640
+msgid "The Social links Widget displays the social networks page on website with different templates and a number of features."
+msgstr "El widget de enlaces sociales muestra la página de redes sociales en la web con diferentes plantillas y una serie de características."
+
+#: includes/admin/class-gutentor-admin.php:636
+msgid "The Restaurant Menu Widget represents the information items and recipes available in restaurant with different features and cool templates."
+msgstr "El widget de menú de restaurante presenta los elementos de información y recetas disponibles en un restaurante con diferentes características y bonitas plantillas."
+
+#: includes/admin/class-gutentor-admin.php:628
+msgid "The Pricing Widget block represents the pricing details of any commodity with number of customize features and cool templates ."
+msgstr "El bloque del widget de precios presenta los detalles de precios de cualquier producto con un número de características personalizables y bonitas plantillas."
+
+#: includes/admin/class-gutentor-admin.php:580
+msgid "The Post Widget block display collection of posts with different setting related to post items and many more templates."
+msgstr "El bloque del widget de entradas muestra una colección de entradas con diferentes ajustes relacionados con los elementos de las entradas y muchas plantillas más."
+
+#: includes/admin/class-gutentor-admin.php:596
+msgid "Counter Widget represents the facts and figure related to any product, item or any product with cool animation , features and many more fascinated templates."
+msgstr "El widget de contador presenta los hechos y cifras relacionados con cualquier producto o artículo con bonitas animaciones, características y muchas más plantillas fascinantes."
+
+#: includes/admin/class-gutentor-admin.php:600
+msgid "The Featured Widget displays large section with a photo, title, description, and button with awesome template. Generally, it is useful to header part of the site."
+msgstr "El widget de destacados muestra una gran sección con una foto, título, descripción y un botón con una plantilla impresionante. Generalmente, es útil para la parte de la cabecera del sitio."
+
+#: includes/admin/class-gutentor-admin.php:608
+msgid "Google Map Widget facilitates user to display the location of organization, company or any place with advanced features of google map. "
+msgstr "El widget del mapa de Google facilita al usuario mostrar la ubicación de una organización, empresa o cualquier lugar, con las características avanzadas de Google Maps."
+
+#: includes/admin/class-gutentor-admin.php:612
+msgid "Icon Widget facilitates to show off a short brief about the users services with Font Awesome icons with cool templates and features."
+msgstr "El widget de iconos facilita mostrar un breve resumen acerca de los servicios de los usuarios con iconos de Font Awesome, con bonitas plantillas y características."
+
+#: includes/admin/class-gutentor-admin.php:616
+msgid "The Image Widget display information with image, title, description and button which modify by available features and cool templates."
+msgstr "El widget de imágenes muestra información con imagen, título, descripción y botón que se modifica según las características disponibles y bonitas plantillas."
+
+#: includes/admin/class-gutentor-admin.php:620
+msgid "The Image Slider Widget display adorable slider with image, title, description and button which modify by available features and cool templates."
+msgstr "El widget del carrusel muestra un carrusel adorable con imagen, título, descripción y botón que se modifica según las características disponibles y bonitas plantillas."
+
+#: includes/admin/class-gutentor-admin.php:624
+msgid "The Opening Hours Widget depicts the information related to opening schedule of any organization or any place with cool templates."
+msgstr "El bloque horas de apertura muestra la información relacionada con el horario de apertura de cualquier organización o lugar con plantillas geniales."
+
+#: includes/admin/class-gutentor-admin.php:660
+msgid "The Video Popup Widget display video from youtube link or custom uploaded video in popup mode with number of styles ,video control."
+msgstr "El bloque de ventana emergente de vídeo muestra vídeo a partir de un enlace de YouTube o vídeo personalizado subido en modo ventana emergente con una serie de estilos y controles de vídeo."

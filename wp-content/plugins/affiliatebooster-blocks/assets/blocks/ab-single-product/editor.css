@@ -1,0 +1,34 @@
+.affiliate-sp-wrapper .affiliate-sp-img-wrapper {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer; }
+
+.affiliate-sp-wrapper .list-is-left li {
+  justify-content: flex-start; }
+
+.affiliate-sp-wrapper .list-is-center li {
+  justify-content: center; }
+
+.affiliate-sp-wrapper .list-is-right li {
+  justify-content: flex-end; }
+
+.affiliate-sp-wrapper .affiliate-placeholder-image span {
+  padding-left: 10px; }
+
+.affiliate-sp-wrapper .affiliate-placeholder-image svg {
+  vertical-align: text-top; }
+
+.affiliate-sp-wrapper .affiliate-media-image-parent {
+  cursor: auto; }
+
+.affiliate-sp-wrapper .affiliate-media-actions {
+  margin-top: 15px; }
+  .affiliate-sp-wrapper .affiliate-media-actions .affiliate-button {
+    background-color: #e6e6e6;
+    border: 1px solid #e6e6e6; }
+  .affiliate-sp-wrapper .affiliate-media-actions .affiliate-button:hover {
+    cursor: pointer; }
+
+.affiliate-iconlist-popwrapper {
+  width: 200px; }

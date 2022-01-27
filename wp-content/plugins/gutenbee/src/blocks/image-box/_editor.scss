@@ -1,0 +1,25 @@
+@import 'common';
+
+.range-control-size  {
+  .components-range-control__slider {
+    + .dashicon {
+      width: 26px;
+      height: 26px;
+    }
+  }
+}
+
+.wp-block-gutenbee-imagebox-figure {
+  .components-placeholder {
+    margin-bottom: 0;
+  }
+}
+
+.wp-block-gutenbee-imagebox {
+  .wp-block-gutenbee-imagebox-content {
+    h1, h2, h3, h4, h5, h6, p {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
+}

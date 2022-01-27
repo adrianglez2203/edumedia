@@ -1,0 +1,47 @@
+.wp-block-gutenbee-google-maps {
+  margin: $base-block-vertical-spacing 0;
+
+  > div {
+    height: 100%;
+  }
+
+  img {
+    margin: 0;
+    padding: 0 !important;
+    background: none !important;
+    border: 0 !important;
+    box-shadow: none;
+  }
+
+  button {
+    min-width: 0;
+  }
+}
+
+.wp-block-gutenbee-google-maps-info-window {
+  > * {
+    margin-bottom: 12px;
+  }
+
+  strong,
+  b {
+    font-weight: bold;
+  }
+
+  em, i {
+    font-style: italic;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  a {
+    text-decoration: underline;
+    color: $native-link;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}

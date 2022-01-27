@@ -1,0 +1,12 @@
+2022-01-27T07:55:31+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-includes\functions.php en la línea 6574
+
+2022-01-27T07:55:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-content\plugins\google-listings-and-ads\src\API\MicroTrait.php en la línea 6
+
+2022-01-27T07:55:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-content\plugins\google-listings-and-ads\src\API\Site\Controllers\ResponseFromExceptionTrait.php en la línea 37
+
+2022-01-27T07:55:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-content\plugins\jetpack\modules\custom-post-types\nova.php en la línea 1329
+
+2022-01-27T07:55:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-content\plugins\jetpack\modules\module-extras.php en la línea 73
+
+2022-01-27T07:55:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded en C:\xampp2\htdocs\edumedia\wordpress\wp-includes\functions.php en la línea 6574
+

@@ -1,0 +1,22 @@
+@import '~zurb-twentytwenty/scss/twentytwenty-no-compass';
+
+.wp-block-gutenbee-image-comparison {
+  margin: $base-block-vertical-spacing 0;
+
+  img {
+    opacity: 0;
+    transition: opacity .18s ease;
+  }
+
+  .twentytwenty-container {
+    img {
+      position: absolute;
+      background: none;
+      border: 0;
+      padding: 0;
+      box-shadow: none;
+      margin: 0;
+      opacity: 1;
+    }
+  }
+}

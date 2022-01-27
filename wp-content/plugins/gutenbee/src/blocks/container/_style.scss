@@ -1,0 +1,178 @@
+@import 'common';
+
+.wp-block-gutenbee-container {
+  &.has-parallax {
+    overflow: hidden;
+  }
+
+  &.gutenbee-alignwide {
+    margin-left: calc(-100vw / 2 + 100% / 2) !important;
+    margin-right: calc(-100vw / 2 + 100% / 2) !important;
+    max-width: 100vw;
+    width: calc(100vw - 10px);
+  }
+
+  &-inner {
+    width: 100%;
+  }
+
+  // Temporary fix for Safari: The background overlay color is randomly
+  // overlapped by the video when it starts playing (in some cases).
+  // Remove when the container block refactor is complete.
+  &.has-background-video {
+    .wp-block-gutenbee-container-row {
+      position: relative;
+      z-index: 1;
+    }
+
+    .wp-block-gutenbee-container-background-overlay {
+      z-index: 0;
+    }
+  }
+}
+
+
+.wp-block-gutenbee-container-row {
+  display: flex;
+  flex-wrap: nowrap;
+
+  @include media-breakpoint-down(md) {
+    flex-wrap: wrap;
+  }
+}
+
+// Gutters
+.wp-block-gutenbee-container-none {
+  margin-left: 0;
+  margin-right: 0;
+
+  .wp-block-gutenbee-column {
+    padding-left: 0;
+    padding-right: 0;
+    flex-basis: 50%;
+  }
+}
+
+.wp-block-gutenbee-container-sm {
+  margin-left: -5px;
+  margin-right: -5px;
+
+  .wp-block-gutenbee-column {
+    padding-left: 5px;
+    padding-right: 5px;
+    flex-basis: calc(50% - 5px);
+  }
+}
+
+.wp-block-gutenbee-container-md {
+  margin-left: -10px;
+  margin-right: -10px;
+
+  .wp-block-gutenbee-column {
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-basis: calc(50% - 10px);
+  }
+}
+
+.wp-block-gutenbee-container-lg {
+  margin-left: -15px;
+  margin-right: -15px;
+
+  .wp-block-gutenbee-column {
+    padding-left: 15px;
+    padding-right: 15px;
+    flex-basis: calc(50% - 15px);
+  }
+}
+
+.wp-block-gutenbee-container-xl {
+  margin-left: -20px;
+  margin-right: -20px;
+
+  .wp-block-gutenbee-column {
+    padding-left: 20px;
+    padding-right: 20px;
+    flex-basis: calc(50% - 20px);
+  }
+}
+
+.wp-block-gutenbee-column {
+  flex-grow: 1;
+  min-width: 0;
+  overflow-wrap: break-word;
+  display: flex;
+}
+
+.wp-block-gutenbee-column-content {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  @include media-breakpoint-down(lg) {
+    background-attachment: scroll !important;
+  }
+}
+
+// Row reverse setting styles
+.wp-block-gutenbee-container {
+  &.row-reverse-desktop {
+    .wp-block-gutenbee-container-row {
+      flex-direction: row-reverse;
+    }
+  }
+
+  &.row-reverse-tablet {
+    @media (max-width: 991px) and (min-width: 576px) {
+      @for $i from 1 through 9 {
+        .wp-block-gutenbee-container-row {
+          > :nth-child(#{$i}) {
+            order: #{9 - $i};
+          }
+        }
+      }
+    }
+  }
+
+  &.row-reverse-mobile {
+    @media (max-width: 575px) {
+      @for $i from 1 through 9 {
+        .wp-block-gutenbee-container-row {
+          > :nth-child(#{$i}) {
+            order: #{9 - $i};
+          }
+        }
+      }
+    }
+  }
+}
+
+.gutenbee-block-spinner {
+  position: absolute;
+  bottom: clamp(25px, 8%, 8%);
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: transparent !important;
+  transition: opacity .25s ease .2s, visibility 0s ease .35s;
+  display: none;
+  z-index: 2;
+
+  &::after {
+    @include spinner($size: 40px, $border-width: 4px, $opacity: 0.4);
+    content: "";
+  }
+
+  .gutenbee-video-loaded & {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+  }
+
+  .has-background-video & {
+    display: flex;
+  }
+
+  @media (max-width: 1080px) {
+    display: none !important;
+  }
+}

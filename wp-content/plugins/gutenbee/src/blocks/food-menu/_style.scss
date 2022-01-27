@@ -1,0 +1,92 @@
+.wp-block-gutenbee-food-menu {
+  display: grid;
+  grid-gap: 30px;
+}
+
+.wp-block-gutenbee-food-menu-item {
+  display: flex;
+  align-items: flex-start;
+  align-self: flex-start;
+
+  .wp-block-gutenbee-image {
+    flex: none;
+    margin-right: 20px;
+
+    figcaption {
+      display: none !important;
+    }
+  }
+
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-bottom: 0;
+  }
+
+  p:empty {
+    display: none;
+  }
+}
+
+.wp-block-gutenbee-food-menu-item-wrapper {
+  display: grid;
+  grid-template-columns: 1fr min-content;
+  flex: auto;
+  align-items: flex-end;
+
+  h1, h2, h3, h4, h5, h6 {
+    width: 100%;
+    display: flex;
+    line-height: 1.1;
+
+    &::after {
+      content: "";
+      border-bottom: 2px dotted currentColor;
+      flex-grow: 1;
+      margin-left: 10px;
+      position: relative;
+      top: -5px;
+    }
+  }
+
+  p:first-of-type {
+    margin-left: auto;
+    padding-left: 10px;
+    line-height: 1.1;
+  }
+
+  p:last-of-type {
+    grid-column: span 2;
+    margin-top: 15px;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+@for $i from 1 through 3 {
+  .gutenbee-food-menu-columns-desktop-#{$i} {
+    grid-template-columns: repeat($i, 1fr);
+  }
+}
+
+@media (max-width: 991px) {
+  @for $i from 1 through 3 {
+    .gutenbee-food-menu-columns-tablet-#{$i} {
+      grid-template-columns: repeat($i, 1fr);
+    }
+  }
+}
+
+@media (max-width: 575px) {
+  @for $i from 1 through 3 {
+    .gutenbee-food-menu-columns-mobile-#{$i} {
+      grid-template-columns: repeat($i, 1fr);
+    }
+  }
+}

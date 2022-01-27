@@ -1,0 +1,14 @@
+{
+  "title": "Tab",
+  "name": "essential-blocks/tab",
+  "category": "essential-blocks",
+  "apiVersion": 2,
+  "textdomain": "essential-blocks",
+  "supports": {
+    "inserter": false,
+    "reusable": false,
+    "html": false,
+    "align": ["full"]
+  },
+  "parent": ["essential-blocks/advanced-tabs"]
+}

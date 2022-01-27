@@ -1,0 +1,46 @@
+.wp-block-gutenbee-tabs {
+  margin-top: $base-block-vertical-spacing;
+  margin-bottom: $base-block-vertical-spacing;
+
+  &-nav {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+
+    @media (max-width: 575px) {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+
+  &-nav-item {
+    padding: 10px 12px;
+    cursor: pointer;
+    line-height: normal;
+
+    @media (max-width: 575px) {
+      width: 100%;
+    }
+  }
+
+  &-nav-item-active {
+    background-color: $blue;
+    color: $white;
+    border-radius: 3px 3px 0 0;
+
+    @media (max-width: 575px) {
+      border-radius: 0;
+    }
+  }
+
+  &-tab-content-wrap {
+    padding: 15px;
+    border: 1px solid $border-color;
+
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
+}

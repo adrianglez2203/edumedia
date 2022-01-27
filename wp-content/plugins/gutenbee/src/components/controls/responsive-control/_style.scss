@@ -1,0 +1,68 @@
+.gutenbee-responsive-control-wrap {
+  position: relative;
+  margin-bottom: $default-block-margin;
+
+  .components-font-size-picker__controls,
+  .components-base-control {
+    margin-bottom: 0 !important;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.gutenbee-responsive-control-wrap-buttons {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  right: -3px;
+  top: 2px;
+  z-index: 10;
+}
+
+.gutenbee-responsive-control-wrap-button {
+  cursor: pointer;
+  background: 0 0;
+  border: none;
+  padding: 0;
+  margin: 0;
+  box-shadow: none;
+  border: 0;
+
+  &:focus,
+  &:active {
+    box-shadow: none;
+    outline: 0;
+  }
+
+  .dashicons {
+    font-size: 15px;
+  }
+
+  &.active {
+    .dashicons {
+      color: $blue;
+    }
+  }
+}
+
+.components-base-control-with-help-icon {
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+
+  .components-base-control__field,
+  > .components-base-control {
+    margin-bottom: 0;
+  }
+
+  .components-base-control-help-icon {
+    margin-left: 10px;
+    line-height: normal;
+  }
+}
+
+.gutenbee-tooltip {
+  max-width: 400px;
+}

@@ -1,0 +1,1011 @@
+# Translation of Plugins - PostX &#8211; Gutenberg Blocks for Post Grid - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - PostX &#8211; Gutenberg Blocks for Post Grid - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-25 08:09:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - PostX &#8211; Gutenberg Blocks for Post Grid - Stable (latest release)\n"
+
+#: classes/options/Addons.php:160
+msgid "Let the users see a graphical indicator to know the reading progress of a blog post."
+msgstr "Deja que los usuarios vean un indicador gráfico para conocer el progreso de lectura de una entrada del blog."
+
+#: classes/options/Addons.php:159
+msgid "Progressbar"
+msgstr "Barra de progreso"
+
+#: classes/options/Upgrade.php:565
+msgid "We have a variety of <a href=\"https://www.youtube.com/channel/UC9I7kzTtG31YlWdG3iL42Jg/videos\" target=\"_blank\">Video Assets</a> to help you out. Find out relevant product tutorials to create an awesome experience suited both to you and your users. "
+msgstr "Tenemos una variedad de <a href=\"https://www.youtube.com/channel/UC9I7kzTtG31YlWdG3iL42Jg/videos\" target=\"_blank\">elementos de video</a> para ayudarte. Descubre tutoriales de productos relevantes para crear una experiencia increíble que se adapte tanto a ti como a tus usuarios."
+
+#: classes/options/Upgrade.php:559
+msgid "We are always looking for ways to make our products offer a fulfilling experience. Leave your <a href=\"https://wordpress.org/support/plugin/ultimate-post/reviews/#new-post\" target=\"-blank\">valuable recommendations</a> so that we can make our products better."
+msgstr "Siempre estamos buscando formas de hacer que nuestros productos ofrezcan una experiencia satisfactoria. Deja tus <a href=\"https://wordpress.org/support/plugin/ultimate-post/reviews/#new-post\" target=\"-blank\">valiosas recomendaciones</a> para que podamos hacer nuestros productos mejor."
+
+#: classes/options/Upgrade.php:560
+msgid "Show Love"
+msgstr "Muestra cariño"
+
+#: classes/options/Upgrade.php:531
+msgid "How do I contact support? "
+msgstr "¿Cómo contacto con el soporte?"
+
+#: classes/options/Upgrade.php:528
+msgid "Once you log in to your WPXPO account, you will find a ‘Manage Licenses’ section from where you manage your Pro licenses for different sites. "
+msgstr "Una vez que accedas a tu cuenta de WPXPO, encontrarás una sección «Gestionar las licencias», desde donde gestionas tus licencias Pro para diferentes sitios."
+
+#: classes/options/Upgrade.php:535
+msgid "How do you accept payment?"
+msgstr "¿Cómo aceptas el pago?"
+
+#: classes/options/Upgrade.php:547 classes/options/Upgrade.php:566
+msgid "View Details"
+msgstr "Ver detalles"
+
+#: classes/options/Upgrade.php:554
+msgid "Get Support"
+msgstr "Obtener soporte"
+
+#: classes/options/Upgrade.php:552
+msgid "Quick Support"
+msgstr "Soporte rápido"
+
+#: classes/options/Upgrade.php:546
+msgid "Visit the <a href=\"https://docs.wpxpo.com/docs/postx/\" target=\"_blank\">PostX documentation</a> to get quick answers on topics. We have extensive documentation to help you create your dream website by navigating through the different settings and controls."
+msgstr "Visita la <a href=\"https://docs.wpxpo.com/docs/postx/\" target=\"_blank\">documentación de PostX</a> para obtener respuestas rápidas sobre temas. Tenemos una amplia documentación para ayudarte a crear la web de tus sueños navegando por las diferentes ajustes y controles."
+
+#: classes/options/Upgrade.php:536
+msgid " We accept payment via the <a href=\"https://paddle.com/support/which-payment-methods-do-you-support\">paddle platform.</a> We do accept payment via PayPal as well."
+msgstr "Aceptamos pagos a través de la <a href=\"https://paddle.com/support/which-payment-methods-do-you-support\">plataforma paddle.</a> También aceptamos pagos a través de PayPal."
+
+#: classes/options/Upgrade.php:532
+msgid "All of the support issues are resolved via our <a href=\"https://www.wpxpo.com/contact\">contact support form</a>. Use it to get rapid support."
+msgstr "Todos los problemas de soporte se resuelven a través de nuestro <a href=\"https://www.wpxpo.com/contact\">formulario de contacto de soporte</a>. Úsalo para obtener un soporte rápido."
+
+#: classes/options/Upgrade.php:558
+msgid "Show Some Love"
+msgstr "Muestra algo de cariño"
+
+#: classes/options/Upgrade.php:527
+msgid "How do I manage licenses for multiple websites? "
+msgstr "¿Cómo gestiono las licencias para varias webs?"
+
+#: classes/options/Upgrade.php:519
+msgid "How can I upgrade my license? "
+msgstr "¿Cómo puedo actualizar mi licencia?"
+
+#: classes/options/Upgrade.php:515
+msgid "Where do I get a license from?"
+msgstr "¿De dónde obtengo una licencia?"
+
+#: classes/options/Upgrade.php:511
+msgid "Get proper answers to some common questions popping up in your mind. We’re always looking to make our products better to offer the best possible experience. For now, let’s get you started with a few simple answers."
+msgstr "Obtén respuestas adecuadas a algunas preguntas comunes que surgen en tu mente. Siempre buscamos mejorar nuestros productos para ofrecerte la mejor experiencia posible. Por ahora, comencemos con algunas respuestas simples."
+
+#: classes/options/Upgrade.php:524
+msgid "If you activate the product on a development site, then you’ll need to deactivate the PostX license on the development site and reactivate the license on your live website."
+msgstr "Si activas el producto en un sitio de desarrollo, deberás desactivar la licencia de PostX en el sitio de desarrollo y reactivar la licencia en tu web activa."
+
+#: classes/options/Upgrade.php:523
+msgid " If I purchase a single license, can I use it on a development site? "
+msgstr "Si compro una sola licencia, ¿puedo usarla en un sitio de desarrollo?"
+
+#: classes/options/Upgrade.php:520
+msgid " You can upgrade your product license using your WPXPO account. You can use the <a href=\"https://www.wpxpo.com/contact\">contact support form</a> to get quick help from our team."
+msgstr "Puedes actualizar tu licencia de producto usando tu cuenta WPXPO. Puedes utilizar el <a href=\"https://www.wpxpo.com/contact\">formulario de contacto de asistencia</a> para obtener ayuda rápida de nuestro equipo."
+
+#: classes/options/Upgrade.php:516
+msgid "You’ll need to have an active <a href=\"https://www.wpxpo.com/\">WPXPO account</a> to buy the PostX Pro License. Once you log in to your account, you can access your licenses from there."
+msgstr "Deberás tener una <a href=\"https://www.wpxpo.com/\">cuenta WPXPO</a> activa para comprar la licencia PostX Pro. Una vez que accedas en tu cuenta, podrá acceder a tus licencias desde allí."
+
+#: classes/options/Upgrade.php:510
+msgid "Frequently Asked Questions"
+msgstr "Preguntas frecuentes"
+
+#: classes/options/Upgrade.php:501
+msgid "@tiddeman83 – Great plugin and very good service"
+msgstr "@tiddeman83 - Gran plugin y muy buen servicio"
+
+#: classes/options/Upgrade.php:500
+msgid "I like this plugin: it is simple, give a great experience to the user of your website and easy to use. I had some technical problems, which were resolved in only couple of hours! Great…"
+msgstr "Me gusta este plugin: es simple, brinda una gran experiencia al usuario de mi web y fácil de usar. ¡Tuve algunos problemas técnicos, que se resolvieron en solo un par de horas! Excelente…"
+
+#: classes/options/Upgrade.php:496
+msgid "@markvanjaarsveld – Great Plugin – Great Support"
+msgstr "@markvanjaarsveld - Gran plugin - Gran soporte"
+
+#: classes/options/Upgrade.php:489
+msgid "@rockyshark – Been on the lookout for something like this for ages"
+msgstr "@rockyshark: he estado buscando algo como esto durante años"
+
+#: classes/options/Upgrade.php:488
+msgid "I’ve been hunting for a plugin that formats post and page links like this via blocks for ages. Super happy. On top of that, I found an issue that was resolved in a few minutes over live chat. Great after-sales support to boot."
+msgstr "He estado buscando un plugin que formatee enlaces de entradas y páginas como este a través de bloques durante mucho tiempo. Súper feliz. Además de eso, encontré un problema que se resolvió en unos minutos a través del chat en vivo. Gran soporte postventa para arrancar."
+
+#: classes/options/Upgrade.php:466
+msgid "Encouragement from Our Users"
+msgstr "Estímulo de nuestros usuarios"
+
+#: classes/options/Upgrade.php:455
+msgid "Upgrade Now"
+msgstr "Actualiza ahora"
+
+#: classes/options/Upgrade.php:442
+msgid "Advanced Responsiveness Feature "
+msgstr "Característica de capacidad de respuesta avanzada"
+
+#: classes/options/Upgrade.php:437
+msgid "Sticky Table of Content"
+msgstr "Tabla de contenido fija"
+
+#: classes/options/Upgrade.php:478
+msgid "With over 10,000+ active downloads and 70+ positive ratings, we’re growing at a rapid pace. It wouldn’t have been possible without a very supportive community admiring PostX. Here’s what they have to say:"
+msgstr "Con más de 10,000 descargas activas y más de 70 valoraciones positivas, estamos creciendo a un ritmo rápido. No habría sido posible sin una comunidad muy solidaria que admira a PostX. Esto es lo que tienen que decir:"
+
+#: classes/options/Upgrade.php:477
+msgid "Words from the WordPress Community"
+msgstr "Palabras de la comunidad de WordPress"
+
+#: classes/options/Upgrade.php:467
+msgid "Here’s what the Facebook community has to say about the PostX Gutenberg Blocks Plugin. We’re pumped because of the positive feedback we’ve received so far!"
+msgstr "Esto es lo que la comunidad de Facebook tiene que decir sobre el plugin PostX Gutenberg Blocks. ¡Estamos emocionados por los comentarios positivos que hemos recibido hasta ahora!"
+
+#: classes/options/Upgrade.php:422
+msgid "Table of Content advanced layouts"
+msgstr "Diseños avanzados de la tabla de contenido "
+
+#: classes/options/Upgrade.php:483
+msgid "One of the best Gutenberg post Grid. Really nice pre-made designs, Easy to access library, Easy to use, lots of settings enable you to customize your layouts as you wish. Professional designs and layouts."
+msgstr "Uno de los mejores cuadricula de entradas de Gutenberg. Diseños prefabricados realmente agradables, biblioteca de fácil acceso, fácil de usar, muchos ajustes te permiten personalizar tus diseños como desees. Diseños y maquetaciones profesionales."
+
+#: classes/options/Upgrade.php:484
+msgid "@nima78600 – Best post Grid"
+msgstr "@nima78600 - Mejor cuadrícula de entradas"
+
+#: classes/options/Upgrade.php:417
+msgid "Content Background Color"
+msgstr "Color de fondo del contenido"
+
+#: classes/options/Upgrade.php:412
+msgid "Content Animations"
+msgstr "Animaciones del contenido"
+
+#: classes/options/Upgrade.php:407
+msgid "Squirrly SEO Meta Addon"
+msgstr "Extensión Squirrly SEO Meta"
+
+#: classes/options/Upgrade.php:402
+msgid "SEOPress Meta Addon"
+msgstr "Extensión SEOPress Meta"
+
+#: classes/options/Upgrade.php:397
+msgid "RankMath SEO Meta Addon"
+msgstr "Extensión RankMath SEO Meta"
+
+#: classes/options/Upgrade.php:343 assets/js/editor.blocks.js:2068
+#: assets/js/editor.blocks.js:2320
+msgid "Premium"
+msgstr "Premiun"
+
+#: classes/options/Upgrade.php:334
+msgid "Your satisfaction is our priority. For this reason, if you’re not happy with our product, we have a <strong> 14 days No Questions Asked </strong> refund policy in place. If we can’t deliver a proper experience, you’ll receive a full refund. <a href=\"https://www.wpxpo.com/refund-policy/\">Learn More.</a>"
+msgstr "Tu satisfacción es nuestra prioridad. Por este motivo, si no estás satisfecho con nuestro producto, contamos con una política de reembolso de <strong>14 días sin preguntas</strong>. Si no podemos brindarte una experiencia adecuada, recibirás un reembolso completo. <a href=\"https://www.wpxpo.com/refund-policy/\">Más información </a>"
+
+#: classes/options/Upgrade.php:432
+msgid "Table of Content Hover Style"
+msgstr "Estilo de la tabla de contenido al pasar el cursor"
+
+#: classes/options/Upgrade.php:427
+msgid "Table of Content Advanced Block Designs"
+msgstr "Diseños avanzados de bloques de la tabla de contenido"
+
+#: classes/options/Addons.php:10 classes/options/Addons.php:11
+msgid "Addons"
+msgstr "Extensiones."
+
+#: classes/options/Upgrade.php:12 classes/options/Upgrade.php:13
+msgid "Upgrade"
+msgstr "Actualiza"
+
+#: classes/options/Overview.php:10 classes/options/Overview.php:11
+msgid "Overview"
+msgstr "Resumen"
+
+#: classes/options/Contact.php:11
+msgid "Contact / Support"
+msgstr "Contacto y soporte"
+
+#: classes/options/Contact.php:10
+msgid "Contact"
+msgstr "Contacto"
+
+#: classes/options/Addons.php:262
+msgid "This addon required "
+msgstr "Esta extensión requiere"
+
+#: classes/options/Upgrade.php:333
+msgid "⋆ ⋆ ⋆ 14-Day Moneyback Guarantee ⋆ ⋆ ⋆"
+msgstr "⋆ ⋆ ⋆ Garantía de devolución del dinero de 14 días ⋆ ⋆ ⋆"
+
+#: classes/options/Upgrade.php:326
+msgid "Unlimited Templates"
+msgstr "Plantillas ilimitadas"
+
+#: classes/options/Upgrade.php:323
+msgid "Exclusive Archive Builder"
+msgstr "Maquetador de archivos exclusivo"
+
+#: classes/options/Upgrade.php:306
+msgid "Why Do You Need PostX Pro?"
+msgstr "¿Por qué necesitas PostX Pro?"
+
+#: classes/options/Upgrade.php:295
+msgid "The Complete <strong><span>Solutions</span></strong> for your <strong>News, Magazine, and Blog</strong> website."
+msgstr "Las <strong> <span> soluciones</span></strong> completas para tu web de <strong> noticias, revistas y blogs</strong>."
+
+#: classes/options/Upgrade.php:307
+msgid "PostX Pro removes all the barriers hindering your creativity. With all the unlocked features and customization options, you can be up and running with a fully functional website and offer a customized experience well-suited for you and your users."
+msgstr "PostX Pro elimina todas las barreras que obstaculizan tu creatividad. Con todas las características desbloqueadas y las opciones de personalización, puede estar en funcionamiento con una web completamente funcional y ofrecer una experiencia personalizada adecuada para ti y tus usuarios."
+
+#: classes/options/Upgrade.php:296
+msgid "Purchase <a href=\"https://www.wpxpo.com/postx/pricing/\">PostX Pro</a> and launch your website within few clicks."
+msgstr "Compra <a href=\"https://www.wpxpo.com/postx/pricing/\">PostX Pro</a> y lanza tu web con unos pocos clics."
+
+#: classes/options/Upgrade.php:314
+msgid "10+ Addons Included"
+msgstr "Más de 10 extensiones incluidas"
+
+#: addons/table_of_content/init.php:7
+msgid "Table of Content"
+msgstr "Tabla de contenido"
+
+#: addons/table_of_content/init.php:8
+msgid "Add a Customizable Table of Content into your blog posts and custom post types."
+msgstr "Añade una tabla de contenido personalizable en las entradas y tipos de contenido personalizado de tu blog."
+
+#: classes/options/Addons.php:205
+msgid "Squirrly Meta"
+msgstr "Meta de Squirrly"
+
+#: classes/options/Addons.php:195
+msgid "SEOPress Meta"
+msgstr "Meta de SEOPress"
+
+#: classes/options/Addons.php:206
+msgid "Show Squirrly meta description in the excerpt."
+msgstr "Muestra la meta description de Squirrly en el extracto."
+
+#: classes/options/Addons.php:196
+msgid "Show SEOPress meta description in the excerpt."
+msgstr "Muestra la meta description de SEOPress en el extracto."
+
+#: classes/options/Addons.php:185
+msgid "RankMath Meta"
+msgstr "Meta de RankMath"
+
+#: classes/options/Addons.php:175
+msgid "All in One SEO Meta"
+msgstr "Meta de All In One SEO"
+
+#: classes/options/Addons.php:165
+msgid "Yoast Meta"
+msgstr "Meta de Yoast"
+
+#: classes/options/Addons.php:186
+msgid "Show RankMath meta description in the excerpt."
+msgstr "Muestra la meta description de RankMath en el extracto."
+
+#: classes/options/Addons.php:176
+msgid "Show All in One SEO meta description in the excerpt."
+msgstr "Mostrar la meta description de All in One SEO en el extracto."
+
+#: classes/options/Addons.php:166
+msgid "Show Yoast meta description in the excerpt."
+msgstr "Muestra la meta description de Yoast en el extracto."
+
+#: classes/Caches.php:121
+msgid "Data Fetched!!!"
+msgstr "¡Datos obtenidos!"
+
+#: classes/options/Addons.php:123
+msgid "Image Block."
+msgstr "Bloque de imagen."
+
+#: classes/options/Addons.php:117
+msgid "Heading Block."
+msgstr "Bloque de encabezado"
+
+#: classes/options/Addons.php:31 classes/options/Addons.php:37
+#: classes/options/Addons.php:43 classes/options/Addons.php:49
+#: classes/options/Addons.php:55 classes/options/Addons.php:61
+#: classes/options/Addons.php:67 classes/options/Addons.php:73
+#: classes/options/Addons.php:79 classes/options/Addons.php:85
+#: classes/options/Addons.php:91 classes/options/Addons.php:97
+#: classes/options/Addons.php:103 classes/options/Addons.php:109
+#: classes/options/Addons.php:115 classes/options/Addons.php:121
+#: classes/options/Addons.php:127 classes/options/Addons.php:133
+msgid "Enable / Disable"
+msgstr "Activar / Desactivar"
+
+#: classes/options/Addons.php:23
+msgid "Blocks"
+msgstr "Bloques"
+
+#: classes/options/Addons.php:135
+msgid "Wrapper Block."
+msgstr "Bloque de envoltura."
+
+#: classes/options/Addons.php:129
+msgid "Taxonomy Block."
+msgstr "Bloque de taxonomía."
+
+#: classes/options/Addons.php:27
+msgid "Enable/Disable Blocks"
+msgstr "Activar/desactivar bloques"
+
+#: classes/options/Addons.php:93
+msgid "Post List #4 Block."
+msgstr "Bloque de lista de entradas #4."
+
+#: classes/options/Addons.php:111
+msgid "Post Slider #1 Block."
+msgstr "Bloque de carrusel de entradas #1."
+
+#: classes/options/Addons.php:105
+msgid "Post Module #2 Block."
+msgstr "Bloque de módulos de entradas #2."
+
+#: classes/options/Addons.php:99
+msgid "Post Module #1 Block."
+msgstr "Bloque de módulos de entradas #1."
+
+#: classes/options/Addons.php:87
+msgid "Post List #3 Block."
+msgstr "Bloque de lista de entradas #3."
+
+#: classes/options/Addons.php:81
+msgid "Post List #2 Block."
+msgstr "Bloque de lista de entradas #2."
+
+#: classes/options/Addons.php:75
+msgid "Post List #1 Block."
+msgstr "Bloque de lista de entradas #1."
+
+#: classes/options/Addons.php:69
+msgid "Post Grid #7 Block."
+msgstr "Bloque de cuadriculas de entradas #7."
+
+#: classes/options/Addons.php:63
+msgid "Post Grid #6 Block."
+msgstr "Bloque de cuadriculas de entradas #6."
+
+#: classes/options/Addons.php:57
+msgid "Post Grid #5 Block."
+msgstr "Bloque de cuadriculas de entradas #5."
+
+#: classes/options/Addons.php:51
+msgid "Post Grid #4 Block."
+msgstr "Bloque de cuadriculas de entradas #4."
+
+#: classes/options/Addons.php:45
+msgid "Post Grid #3 Block."
+msgstr "Bloque de cuadriculas de entradas #3."
+
+#: classes/options/Addons.php:39
+msgid "Post Grid #2 Block."
+msgstr "Bloque de cuadriculas de entradas #2."
+
+#: classes/options/Addons.php:33
+msgid "Post Grid #1 Block."
+msgstr "Bloque de cuadriculas de entradas #1."
+
+#: classes/options/Addons.php:153
+msgid "Builder"
+msgstr "Maquetador"
+
+#: classes/options/Addons.php:148
+msgid "Choose your desired color and Image for categories or any taxonomy."
+msgstr "Elije el color y la imagen que deseas para las categorías o cualquier taxonomía."
+
+#: blocks/Archive_Title.php:580 assets/js/editor.blocks.js:1540
+msgid "Archive Title"
+msgstr "Título del archivo"
+
+#: classes/options/Overview.php:51
+msgid "Archive Builder."
+msgstr "Maquetador de archivos"
+
+#: addons/templates/init.php:8
+msgid "Convert Gutenberg Blocks into shortcodes to use them anywhere."
+msgstr "Convierte los bloques de Gutenberg en  shortcodes para usarlos en cualquier lugar."
+
+#: addons/elementor/init.php:8
+msgid "Use Gutenberg blocks inside Elementor via Save Template addons."
+msgstr "Usa bloques de Gutenberg dentro de Elementor a través de las extensiones de guardar plantilla."
+
+#: classes/options/Overview.php:70
+msgid "<strong>Archive</strong> Builder <span style=\"color:#25b425\">(Pro)</span>"
+msgstr "<strong>Archivo</strong> maquetador<span style=\"color:#25b425\">(Pro)</span>"
+
+#: classes/options/Addons.php:154
+msgid "Design template for Archive, Category, Custom Taxonomy, Date, and Search Page."
+msgstr "Plantilla de diseño para archivo, categoría, taxonomía personalizada, fecha y página de búsqueda."
+
+#: classes/Styles.php:167
+msgid "PostX css file has been updated."
+msgstr "El archivo CSS de PostX se ha actualizado."
+
+#: classes/options/Heading.php:5
+msgid "Welcome to <strong>PostX</strong> - Version"
+msgstr "Bienvenido a <strong>PostX</strong> - Versión"
+
+#: classes/Options.php:78 classes/Options.php:79 classes/options/Heading.php:3
+msgid "PostX"
+msgstr "PostX"
+
+#: classes/options/Settings.php:94
+msgid "Change Container Width of the Page Template(PostX Template)."
+msgstr "Cambiar el ancho del contenedor de la plantilla de página (plantilla PostX)."
+
+#: addons/elementor/Elementor_Widget.php:11 classes/Templates.php:56
+msgid "PostX Template"
+msgstr "Plantilla PostX"
+
+#: classes/Initialization.php:389
+msgid "PostX - Gutenberg Post Blocks"
+msgstr "PostX - Bloques de entradas de Gutenberg"
+
+#: blocks/Heading.php:718 blocks/Image.php:586 assets/js/editor.blocks.js:1576
+#: assets/js/editor.blocks.js:1588 assets/js/editor.blocks.js:1996
+msgid "Image"
+msgstr "Imagen"
+
+#: blocks/Taxonomy.php:1476 assets/js/editor.blocks.js:1948
+#: assets/js/editor.blocks.js:1996
+msgid "Taxonomy"
+msgstr "Taxonomía"
+
+#: blocks/Post_Grid_3.php:2434 assets/js/editor.blocks.js:1660
+msgid "Post Grid #3"
+msgstr "Cuadriculas de entradas #3."
+
+#: classes/Styles.php:174
+msgid "Data Delete Done"
+msgstr "Realizado el borrado de datos"
+
+#: blocks/Post_List_1.php:2656 assets/js/editor.blocks.js:1780
+msgid "Post List #1"
+msgstr "Lista de entradas #1"
+
+#: blocks/Post_List_4.php:2695 assets/js/editor.blocks.js:1852
+msgid "Post List #4"
+msgstr "Lista de entradas #4"
+
+#: blocks/Post_List_2.php:2707 assets/js/editor.blocks.js:1804
+msgid "Post List #2"
+msgstr "Lista de entradas #2"
+
+#: blocks/Post_List_3.php:2745 assets/js/editor.blocks.js:1828
+msgid "Post List #3"
+msgstr "Lista de entradas #3"
+
+#: blocks/Post_Grid_4.php:2371 assets/js/editor.blocks.js:1684
+msgid "Post Grid #4"
+msgstr "Cuadrícula de entradas #4"
+
+#: blocks/Post_Grid_5.php:2360 assets/js/editor.blocks.js:1708
+msgid "Post Grid #5"
+msgstr "Cuadrícula de entradas #5"
+
+#: blocks/Post_Grid_6.php:2369 assets/js/editor.blocks.js:1732
+msgid "Post Grid #6"
+msgstr "Cuadrícula de entradas #6"
+
+#: blocks/Post_Grid_2.php:2392 assets/js/editor.blocks.js:1636
+msgid "Post Grid #2"
+msgstr "Cuadrícula de entradas #2"
+
+#: blocks/Post_Module_2.php:2635 assets/js/editor.blocks.js:1900
+msgid "Post Module #2"
+msgstr "Módulo de entradas #2"
+
+#: blocks/Post_Grid_1.php:2528 assets/js/editor.blocks.js:1612
+msgid "Post Grid #1"
+msgstr "Cuadrícula de entradas #1"
+
+#: blocks/Post_Module_1.php:2634 assets/js/editor.blocks.js:1876
+msgid "Post Module #1"
+msgstr "Módulo de entradas #1"
+
+#: blocks/Post_Grid_7.php:2361 assets/js/editor.blocks.js:1756
+msgid "Post Grid #7"
+msgstr "Cuadrícula de entradas #7"
+
+#: blocks/Post_Slider_1.php:2365 assets/js/editor.blocks.js:1924
+msgid "Post Slider #1"
+msgstr "Carrusel de entradas #1"
+
+#: classes/options/Settings.php:116
+msgid "Disable Image Size of the Plugins."
+msgstr "Desactivar tamaño de imagen de los plugins."
+
+#: classes/options/Settings.php:114
+msgid "Disable Image Size"
+msgstr "Desactivar tamaño de imagen"
+
+#: classes/Deactive.php:221
+msgid "Skip & Deactivate"
+msgstr "Saltar y desactivar"
+
+#: classes/Deactive.php:220
+msgid "Submit & Deactivate"
+msgstr "Enviar y desactivar"
+
+#: classes/Deactive.php:203
+msgid "If you have a moment, please let us know why you are deactivating PostX:"
+msgstr "Si tienes un momento, por favor, dinos por qué estás desactivando PostX:"
+
+#: classes/Deactive.php:198
+msgid "Quick Feedback"
+msgstr "Comentario rápido"
+
+#: classes/Deactive.php:170
+msgid "Please share the reason."
+msgstr "Por favor, comparte el motivo."
+
+#: classes/Deactive.php:169
+msgid "Other."
+msgstr "Otro."
+
+#: classes/Deactive.php:164
+msgid "It's a temporary deactivation."
+msgstr "Es una desactivación temporal."
+
+#: classes/Deactive.php:148
+msgid "Please share which plugin."
+msgstr "Por favor, comparte qué plugin."
+
+#: classes/Deactive.php:147
+msgid "I found a better plugin."
+msgstr "He encontrado un plugin mejor."
+
+#: classes/Deactive.php:142
+msgid "I no longer need the plugin."
+msgstr "Ya no necesito el plugin."
+
+#: classes/Deactive.php:76
+msgid "No Thanks"
+msgstr "No, gracias"
+
+#: classes/Deactive.php:75
+msgid "Allow"
+msgstr "Permitir"
+
+#: classes/Deactive.php:159
+msgid "I could not get the plugin to work."
+msgstr "No he podido hacer funcionar el plugin."
+
+#: classes/Deactive.php:154
+msgid "Please share more details."
+msgstr "Por favor, comparte más detalles."
+
+#: classes/Deactive.php:153
+msgid "The plugin suddenly stopped working."
+msgstr "El plugin, de repente, ha dejado de funcionar."
+
+#: classes/Deactive.php:74
+msgid "Want to help make <strong style=\"padding:0 5px;\"> %1$s </strong> even more awesome? Allow %1$s to collect <a style=\"padding:0 5px;\" href=\"https://www.wpxpo.com/data-collection-policy/\" target=\"_blank\">non-sensitive</a> diagnostic data and usage information."
+msgstr "¿Quieres ayudar a que <strong style=\"padding:0 5px;\">%1$s</strong> sea aún más impresionante? Permite que %1$s recopile datos de diagnóstico e información de uso <a style=\"padding:0 5px;\" href=\"https://www.wpxpo.com/data-collection-policy/\" target=\"_blank\">no sensible</a>."
+
+#. Plugin Name of the plugin
+msgid "PostX - Gutenberg Post Grid Blocks"
+msgstr "PostX - Gutenberg Post Grid Blocks"
+
+#: classes/options/Overview.php:52
+msgid "Custom Taxonomy Support."
+msgstr "Soporte de taxonomía personalizada."
+
+#: classes/options/Overview.php:48
+msgid "Plugins Feature"
+msgstr "Características del plugin"
+
+#: classes/options/Overview.php:49
+msgid "PostX plugin helps to create beautiful post grid, post listing, dynamic post slider and post carousel within a few seconds."
+msgstr "El plugin PostX ayuda a crear una hermosa cuadrícula de entradas, una lista de entradas, un carrusel de entradas dinámico y un carrusel de entradas en unos pocos segundos."
+
+#: addons/elementor/init.php:7
+msgid "Elementor Addons"
+msgstr "Extensiones de Elementor."
+
+#: classes/options/Overview.php:110
+msgid "A category or tag filter is the best tool to show several contents in a small place. By clicking on category or tag users can easily read the content they are interested in."
+msgstr "Un filtro de categoría o etiqueta es la mejor herramienta para mostrar varios contenidos en un lugar pequeño. Al hacer clic en la categoría o etiqueta, los usuarios pueden leer fácilmente el contenido que les interesa."
+
+#: classes/options/Overview.php:128
+msgid "Typography is one of the major concerns for readability. PostX accumulates all the Google free fonts in one place for your convenience."
+msgstr "La tipografía es una de las principales preocupaciones de la legibilidad. PostX acumula todas las fuentes gratuitas de Google en un solo lugar para tu conveniencia."
+
+#: classes/options/Overview.php:57
+msgid "Get Fast & Quick Support."
+msgstr "Obten soporte rápido"
+
+#: classes/options/Overview.php:56
+msgid "Get Category Specific Color and Image Feature."
+msgstr "Obten la característica de imagen y color específica de la categoría."
+
+#: classes/options/Overview.php:55
+msgid "Advanced Quick Query Feature."
+msgstr "Característica de consulta rápida avanzada."
+
+#: classes/options/Overview.php:54
+msgid "Ready-made Start Packs."
+msgstr "Paquetes de inicio listos para usar."
+
+#: addons/templates/Saved_Templates.php:54
+msgid "Parent Template"
+msgstr "Plantilla principal"
+
+#: addons/templates/Saved_Templates.php:56
+msgid "View Template"
+msgstr "Ver plantilla"
+
+#: addons/templates/init.php:7 addons/templates/Saved_Templates.php:53
+#: addons/templates/Saved_Templates.php:55
+msgid "Saved Templates"
+msgstr "Plantillas guardadas"
+
+#: addons/templates/Saved_Templates.php:57
+#: addons/templates/Saved_Templates.php:58
+msgid "Add New Template"
+msgstr "Añadir nueva plantilla"
+
+#: addons/elementor/Elementor_Widget.php:82
+msgid "Please Select Your Saved Template."
+msgstr "Selecciona tu plantilla guardada."
+
+#: classes/options/Addons.php:234
+msgid "All Addons"
+msgstr "Todas las extensiones"
+
+#: addons/elementor/Elementor_Widget.php:47
+msgid "Saved Template"
+msgstr "Plantillas guardadas"
+
+#: addons/templates/Saved_Templates.php:63
+msgid "Not Template found in Trash"
+msgstr "No se han encontrado plantillas en la papelera"
+
+#: addons/templates/Saved_Templates.php:62
+msgid "No Template Found"
+msgstr "No se han encontrado plantillas."
+
+#: addons/templates/Saved_Templates.php:61
+msgid "Search Template"
+msgstr "Buscar plantilla"
+
+#: addons/templates/Saved_Templates.php:60
+msgid "Update Template"
+msgstr "Actualizar plantilla"
+
+#: addons/templates/Saved_Templates.php:59
+msgid "Edit Template"
+msgstr "Editar plantilla"
+
+#: addons/templates/Saved_Templates.php:52
+msgctxt "Templates"
+msgid "Saved Template"
+msgstr "Plantillas guardadas"
+
+#: addons/templates/Saved_Templates.php:51
+msgctxt "Templates"
+msgid "Saved Templates"
+msgstr "Plantillas guardadas"
+
+#: addons/templates/Saved_Templates.php:37
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: classes/options/Settings.php:104
+msgid "Select Editor Container Width."
+msgstr "Seleccione editor de ancho del contenedor."
+
+#: classes/options/Settings.php:101
+msgid "Theme Default"
+msgstr "Tema por defecto"
+
+#: classes/options/Settings.php:100
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: classes/options/Settings.php:98
+msgid "Editor Container"
+msgstr "Editor del contenedor"
+
+#: classes/options/Overview.php:102
+msgid "Core Features"
+msgstr "Características del núcleo"
+
+#: classes/options/Addons.php:147 assets/js/editor.blocks.js:1948
+#: assets/js/editor.blocks.js:1996
+msgid "Category"
+msgstr "Categoría"
+
+#: classes/Options.php:39
+msgid "Docs"
+msgstr "Documentos"
+
+#: classes/Options.php:40
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+#: classes/options/Upgrade.php:447
+msgid "Priority Support"
+msgstr "Soporte prioritario"
+
+#: classes/options/Upgrade.php:342 assets/js/editor.blocks.js:2068
+msgid "Free"
+msgstr "Gratis"
+
+#: classes/options/Overview.php:95
+msgid "Explore Details"
+msgstr "Explorar detalles"
+
+#: classes/options/Overview.php:93
+msgid "Design Library"
+msgstr "Biblioteca de diseño"
+
+#: classes/options/Overview.php:82
+msgid "Ready-made <strong>Starter</strong> Packs"
+msgstr "Paquetes <strong> de inicio </strong> listos para usar"
+
+#: classes/options/Overview.php:79
+msgid "Quick <strong>Query</strong> Builder"
+msgstr "Rapida <strong>consulta</strong> maquetador"
+
+#: classes/options/Overview.php:76
+msgid "<strong>AJAX</strong> Powered Post Filter"
+msgstr "<strong>AJAX</strong> Motor del filtro de entradas"
+
+#: classes/options/Overview.php:60
+msgid "Upgrade Pro  ➤"
+msgstr "Actualizar a Pro"
+
+#: classes/options/Overview.php:73
+msgid "Advanced <strong>Query</strong> Builder"
+msgstr "Avanzada <strong>consulta</strong> maquetador"
+
+#: classes/options/Overview.php:53
+msgid "Block Layout Options."
+msgstr "Opciones de diseño de bloque."
+
+#: classes/options/Overview.php:40 assets/js/editor.blocks.js:2068
+msgid "Live Preview"
+msgstr "Vista previa"
+
+#: classes/Options.php:60 assets/js/editor.blocks.js:2320
+msgid "Go Pro"
+msgstr "Hazte Pro"
+
+#: classes/options/Addons.php:258 assets/js/editor.blocks.js:2068
+msgid "Get Pro"
+msgstr "Obtener Pro"
+
+#: classes/options/Heading.php:7
+msgid "Most Powerful & Advanced Gutenberg Post Blocks"
+msgstr "Los bloques de entrada más potentes y avanzados de Gutenberg"
+
+#: classes/options/Overview.php:137
+msgid "Post Sliders are now easier to build using our post slider blocks. It is fully dynamic and can be used with any custom query to display your posts."
+msgstr "Los carruseles de entradas ahora son más fáciles de construir con nuestros bloques de carruseles de entradas. Es completamente dinámico y se puede utilizar con cualquier consulta personalizada para mostrar tus entradas."
+
+#: classes/options/Overview.php:136
+msgid "Dynamic Post Slider"
+msgstr "Carrusel dinamico de entradas"
+
+#: classes/options/Overview.php:127
+msgid "Awesome Typography Control"
+msgstr "Control de tipografía impresionante"
+
+#: classes/options/Overview.php:118
+msgid "Advanced Pagination Options"
+msgstr "Opciones de paginación avanzadas"
+
+#: classes/options/Overview.php:109
+msgid "AJAX Powered Post Filter"
+msgstr "Filtro de entradas con el motor AJAX"
+
+#: classes/Options.php:41
+msgid "Support"
+msgstr "Soporte"
+
+#: addons/elementor/Elementor_Widget.php:40 classes/Options.php:63
+#: classes/options/Settings.php:10 classes/options/Settings.php:11
+msgid "Settings"
+msgstr "Ajustes"
+
+#: classes/options/Overview.php:119
+msgid "PostX comes with an AJAX-powered Pagination system, that’s why content is loaded without reloading the whole page."
+msgstr "PostX viene con un sistema de paginación con tecnología AJAX, por eso el contenido se carga sin recargar toda la página."
+
+#: classes/options/Overview.php:94
+msgid "PostX comes with a rich and beautiful ready-made starter pack and design library. It helps you create a beautiful website without the knowledge of web design."
+msgstr "PostX viene con un paquete de inicio y una biblioteca de diseño ricos y hermosos, listos para usar. Te ayuda a crear una hermosa web sin el conocimiento de diseño web."
+
+#: classes/options/Footer.php:6 classes/options/Upgrade.php:545
+msgid "Documentation"
+msgstr "Documentación"
+
+#: classes/options/Footer.php:15
+msgid "Have you any questions? Our super fast support ninja is waiting for your problems."
+msgstr "¿Tienes alguna pregunta? Nuestro soporte súper rápido está esperando sus problemas."
+
+#: classes/options/Footer.php:14
+msgid "Need any Helps"
+msgstr "Necesita ayuda"
+
+#: classes/options/Footer.php:10
+msgid "Are you satisfied with this plugin? Submit your valuable review in Wordpress directory."
+msgstr "¿Estás satisfecho con este plugin? Envía tu valiosa reseña en el directorio de WordPress."
+
+#: classes/options/Footer.php:11
+msgid "Leave a Review"
+msgstr "Deja una reseña"
+
+#: classes/options/Footer.php:9
+msgid "Submit Your Review"
+msgstr "Enviar tu reseña"
+
+#: classes/options/Footer.php:5
+msgid "Got a question? Read our super rich documentation and solve your problem ASAP."
+msgstr "¿Tienes alguna pregunta? Lee nuestra documentación super rica y resuelve tu problema lo antes posible."
+
+#: classes/options/Footer.php:4
+msgid "Documentations"
+msgstr "Documentos"
+
+#: classes/options/Footer.php:17
+msgid "Submit a Ticket »"
+msgstr "Enviar un tique »"
+
+#: classes/options/Settings.php:72
+msgid "CSS Add Via"
+msgstr "Añadir CSS vía"
+
+#: classes/options/Settings.php:74
+msgid "Header - (Internal)"
+msgstr "Cabecera - (interno)"
+
+#: classes/options/Settings.php:75
+msgid "File System - (External)"
+msgstr "Sistema de archivos - (externo)"
+
+#: classes/options/Settings.php:110
+msgid "Hide Import Layout Button from the Gutenberg Editor."
+msgstr "Ocultar el botón de importación de diseños del editor de Gutenberg"
+
+#: classes/options/Settings.php:108
+msgid "Hide Import Button"
+msgstr "Ocultar el botón de importar"
+
+#: classes/options/Overview.php:41
+msgid "Plugin Details"
+msgstr "Detalles del plugin"
+
+#: classes/options/Settings.php:64 classes/options/Settings.php:68
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: classes/options/Upgrade.php:564
+msgid "Video Tutorials"
+msgstr "Tutoriales en vídeo"
+
+#: classes/options/Settings.php:294
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: classes/options/Settings.php:170
+msgid "Version"
+msgstr "Versión"
+
+#: classes/options/Settings.php:82
+msgid "Preloader Style"
+msgstr "Estilo del precargador"
+
+#: classes/Functions.php:748 classes/Functions.php:918
+#: assets/js/editor.blocks.js:1996
+msgid "Next"
+msgstr "Siguiente"
+
+#: classes/Functions.php:747 classes/Functions.php:913
+#: assets/js/editor.blocks.js:1996
+msgid "Previous"
+msgstr "Anterior"
+
+#: blocks/template/meta.php:17 assets/js/editor.blocks.js:1996
+msgid " comments"
+msgstr " comentarios"
+
+#: blocks/template/meta.php:9 blocks/template/meta.php:10
+#: blocks/template/meta.php:12 assets/js/editor.blocks.js:1996
+msgid "By"
+msgstr "Por"
+
+#: blocks/Post_Grid_1.php:2639 blocks/Post_Grid_2.php:2495
+#: blocks/Post_Grid_3.php:2537 blocks/Post_Grid_4.php:2474
+#: blocks/Post_Grid_5.php:2453 blocks/Post_Grid_6.php:2473
+#: blocks/Post_Grid_7.php:2465 blocks/Post_List_1.php:2766
+#: blocks/Post_List_2.php:2812 blocks/Post_List_3.php:2848
+#: blocks/Post_List_4.php:2800 blocks/Post_Module_1.php:2736
+#: blocks/Post_Module_2.php:2736 blocks/Post_Slider_1.php:2435
+#: assets/js/editor.blocks.js:1996
+msgid "Read More"
+msgstr "Leer más"
+
+#: classes/options/Settings.php:168
+msgid "Released on "
+msgstr "Lanzado el "
+
+#: classes/options/Settings.php:92
+msgid "Container Width"
+msgstr "Anchura del contenedor"
+
+#: blocks/template/meta.php:21 blocks/template/meta.php:22
+msgid " ago"
+msgstr " atrás"
+
+#: blocks/template/meta.php:19
+msgid " views"
+msgstr "  visualizaciones"
+
+#: classes/options/Heading.php:7
+msgid "Rate the plugin"
+msgstr "Valora el plugin"
+
+#. Author URI of the plugin
+msgid "https://wpxpo.com/"
+msgstr "https://wpxpo.com/"
+
+#. Author of the plugin
+msgid "wpxpo"
+msgstr "wpxpo"
+
+#: classes/options/Settings.php:88
+msgid "Select Preloader Style."
+msgstr "Selecciona el estilo de precargador."
+
+#: classes/options/Settings.php:85
+msgid "Preloader Style 2"
+msgstr "Estilo del precargador 2"
+
+#: classes/options/Settings.php:84
+msgid "Preloader Style 1"
+msgstr "Estilo del precargador 1"
+
+#: classes/options/Settings.php:78
+msgid "Select where you want to save CSS."
+msgstr "Selecciona dónde quieres guardar el CSS."
+
+#: classes/Styles.php:105 classes/Styles.php:164
+msgid "CSS can not be saved due to permission!!!"
+msgstr "¡CSS no puede ser guardado debido a los permisos!"
+
+#: classes/Styles.php:109 classes/Styles.php:126
+msgid "Data not found!!"
+msgstr "¡Datos no encontrados!"
+
+#: classes/Styles.php:107 classes/Styles.php:124
+msgid "Data retrive done"
+msgstr "Recuperación de datos realizada"
+
+#. Description of the plugin
+msgid "Gutenberg Post blocks is a Gutenberg block Plugin for creating dynamic blog listing, grid and slider."
+msgstr "Gutenberg Post blocks es un plugin de bloques para Gutenberg para crear listados dinámicos en blogs, cuadrículas y carruseles."
+
+#: classes/options/Overview.php:142
+msgid "More Features"
+msgstr "Más características"
